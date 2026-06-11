@@ -5,7 +5,7 @@
 
 🎓 Estudante de Engenharia de Computação
 
-🔍 Atualmente direcionando meus estudos para Cibersegurança, Segurança de Redes e Análise de Incidentes.
+🔍 Atualmente direcionando meus estudos para Cibersegurança e Threat intelligence.
 
 </p>
 
@@ -20,8 +20,8 @@
 <p align="left">
   🦄 Linguagens principais: <p align="left"> <img src="https://skillicons.dev/icons?i=python,c" /> </p>
 </p>
-📖 Também já programei com
-<p align="left"> <img src="https://skillicons.dev/icons?i=go,java,html" /> </p>
+📖 Conhecimentos adicionais
+<p align="left"> <img src="https://skillicons.dev/icons?i=go,java,html,postgres" /> </p>
 
 💼 Ferramentas que uso:
 <p align="left">
