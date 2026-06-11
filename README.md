@@ -9,7 +9,7 @@
 
 </p>
 
-## 🔍 Áreas de Interesse
+🔍 Áreas de Interesse
 
 - Cibersegurança
 - Segurança de Redes
