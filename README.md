@@ -31,6 +31,7 @@ Tenho interesse principalmente em:
 📑 Documentação Técnica
 
 Mais do que decorar ferramentas, gosto de analisar evidências e reconstruir cenários através de logs, tráfego de rede e comportamento dos sistemas.
+<div align="center"> <img src="python.svg" width="55"> <img src="c.svg" width="55"> <img src="go.svg" width="55"> <img src="java.svg" width="55"> <img src="html.svg" width="55"> </div>
 
 ---
 
