@@ -34,18 +34,6 @@ Mais do que decorar ferramentas, gosto de analisar evidências e reconstruir cen
 
 ---
 
-# 💻 Linguagens
-
-| Linguagem | Uso |
-|----------------|----------------|
-| 🐍 Python | Automação e scripts |
-| ⚙️ C | Estruturas e baixo nível |
-| 🐹 Go | Estudos em desenvolvimento |
-| ☕ Java | Faculdade |
-| 🌐 HTML | Desenvolvimento Web |
-
-
-
 # 🎯 Objetivo
 
 Construir uma base sólida em Engenharia de Computação e Cibersegurança através de estudos práticos, análise de incidentes, interpretação de protocolos de rede e documentação técnica.
