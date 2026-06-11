@@ -13,6 +13,8 @@
 <p align="left">
   🦄 Linguagens principais: <p align="left"> <img src="https://skillicons.dev/icons?i=python,c" /> </p>
 </p>
+📖 Também já programei com
+<p align="left"> <img src="https://skillicons.dev/icons?i=go,java,html" /> </p>
 
 <p align="left">
   💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
