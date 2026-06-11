@@ -1,11 +1,8 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
+## 👋Olá, eu sou o Saulo Estrela
 <p align="left"> 
-👋 Olá, eu sou o Saulo Estrela
-
 🎓 Sou estudante de Engenharia de Computação e estou construindo uma carreira em Cibersegurança. 
 
-🔍 Atualmente estou direcionando meus estudos para Cibersegurança através da análise forense digital e investigação de incidentes. Meu interesse está em compreender como ataques acontecem, analisar evidências e documentar conclusões técnicas a partir de investigações.
+Atualmente estou direcionando meus estudos para Cibersegurança através da análise forense digital e investigação de incidentes. Meu interesse está em compreender como ataques acontecem, analisar evidências e documentar conclusões técnicas a partir de investigações.
 
 </p>
 
@@ -16,7 +13,7 @@
 - Threat Intelligence
 - Threat Hunting
 - Análise de Malware
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left">
   🦄 Linguagens principais: <p align="left"> <img src="https://skillicons.dev/icons?i=python,c" /> </p>
 </p>
@@ -26,10 +23,6 @@
 💼 Ferramentas que uso:
 <p align="left">
  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
-</p>
-
-<p align="left">
-  Contatos: ⤵️
 </p>
 
 <h3 align="center">📫 Contatos: </h3>
