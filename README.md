@@ -1,12 +1,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+ # 👋 Olá, eu sou o Saulo Estrela
+
+🎓 Estudante de Engenharia de Computação
+
+🔍 Atualmente direcionando meus estudos para Cibersegurança, Segurança de Redes e Análise de Incidentes.
+
+📚 Acredito que aprender significa investigar, compreender protocolos, analisar evidências e transformar teoria em prática.
 </p>
 
 <p align="left">
-  🦄 Linguagens: 
+  🦄 Linguagens: <p align="left"> <img src="https://skillicons.dev/icons?i=python,c" /> </p>
 </p>
 
 <p align="left">
