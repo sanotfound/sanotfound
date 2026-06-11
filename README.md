@@ -17,7 +17,7 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=go,java,html" /> </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 </p>
 
 <p align="left">
