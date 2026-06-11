@@ -18,6 +18,7 @@
 
 <p align="left">
   💼 Ferramentas:
+ 
  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 </p>
 
