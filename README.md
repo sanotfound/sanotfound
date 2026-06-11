@@ -5,7 +5,7 @@
 
 🎓 Estudante de Engenharia de Computação
 
-🔍 Atualmente direcionando meus estudos para Cibersegurança e Threat intelligence.
+🔍 Atualmente direcionando meus estudos para Cibersegurança através da análise de redes, investigação de incidentes e documentação técnica.
 
 </p>
 
