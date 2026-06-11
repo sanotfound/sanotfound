@@ -18,7 +18,7 @@ Atualmente estou direcionando meus estudos para Cibersegurança através da aná
   🦄 Linguagens principais: <p align="left"> <img src="https://skillicons.dev/icons?i=python,c" /> </p>
 </p>
 📖 Conhecimentos adicionais
-<p align="left"> <img src="https://skillicons.dev/icons?i=go,java,html,postgres" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=go,java,html,css,php,postgres" /> </p>
 
 💼 Ferramentas que uso:
 <p align="left">
