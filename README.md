@@ -7,11 +7,11 @@
 
 🔍 Atualmente direcionando meus estudos para Cibersegurança, Segurança de Redes e Análise de Incidentes.
 
-📚 Acredito que aprender significa investigar, compreender protocolos, analisar evidências e transformar teoria em prática.
+
 </p>
 
 <p align="left">
-  🦄 Linguagens: <p align="left"> <img src="https://skillicons.dev/icons?i=python,c" /> </p>
+  🦄 Linguagens principais: <p align="left"> <img src="https://skillicons.dev/icons?i=python,c" /> </p>
 </p>
 
 <p align="left">
