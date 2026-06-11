@@ -3,9 +3,9 @@
 <p align="left"> 
 👋 Olá, eu sou o Saulo Estrela
 
-🎓 Estudante de Engenharia de Computação
+🎓 Sou estudante de Engenharia de Computação e estou construindo uma carreira em Cibersegurança. 
 
-🔍 Atualmente direcionando meus estudos para Cibersegurança através da análise de redes, investigação de incidentes e documentação técnica.
+🔍 Atualmente estou direcionando meus estudos para Cibersegurança através da análise de redes, investigação de incidentes e documentação técnica. Meu interesse está em compreender como ataques acontecem, analisar evidências e documentar investigações.
 
 </p>
 
@@ -32,12 +32,15 @@
   Contatos: ⤵️
 </p>
 
-<p align="left">
+<h3 align="center">📫 Contatos: </h3>
+
+<p align="center">
   <a href="mailto:estrelasaulo08@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 
