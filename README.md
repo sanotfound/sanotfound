@@ -7,8 +7,15 @@
 
 🔍 Atualmente direcionando meus estudos para Cibersegurança, Segurança de Redes e Análise de Incidentes.
 
-
 </p>
+
+## 🔍 Áreas de Interesse
+
+- Cibersegurança
+- Segurança de Redes
+- Threat Intelligence
+- Threat Hunting
+- Análise de Malware
 
 <p align="left">
   🦄 Linguagens principais: <p align="left"> <img src="https://skillicons.dev/icons?i=python,c" /> </p>
