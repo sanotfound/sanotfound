@@ -16,7 +16,7 @@
 📖 Também já programei com
 <p align="left"> <img src="https://skillicons.dev/icons?i=go,java,html" /> </p>
 
-💼 Ferramentas:
+💼 Ferramentas que uso:
 <p align="left">
  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 </p>
