@@ -2,7 +2,7 @@
 <p align="left"> 
 🎓 Sou estudante de Engenharia de Computação e estou construindo uma carreira em Cibersegurança. 
 
-Atualmente estou direcionando meus estudos para Cibersegurança através da análise forense digital e investigação de incidentes. Meu interesse está em compreender como ataques acontecem, analisar evidências e documentar conclusões técnicas a partir de investigações.
+Atualmente estou direcionando meus estudos para Cibersegurança através da análise de redes, Threat Intelligence e documentação técnica de incidentes. Meu interesse está em compreender como ataques acontecem, analisar evidências e documentar conclusões técnicas a partir de investigações.
 
 </p>
 
