@@ -22,7 +22,7 @@ Atualmente estou direcionando meus estudos para Cibersegurança através da aná
 
 💼 Ferramentas que uso:
 <p align="left">
- <img src="https://skillicons.dev/icons?i=linux,github,vscode,postgres" />
+ <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postgres" />
 </p>
 
 <h3 align="center">📫 Contatos: </h3>
