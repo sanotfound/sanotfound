@@ -17,7 +17,7 @@ Atualmente estou direcionando meus estudos para Cibersegurança através da aná
 <p align="left">
   🦄 Linguagens principais: <p align="left"> <img src="https://skillicons.dev/icons?i=python,c" /> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanotfound&layout=compact&theme=synthwave)
+
 
 </p>
 📖 Conhecimentos adicionais
