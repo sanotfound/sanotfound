@@ -16,6 +16,9 @@ Atualmente estou direcionando meus estudos para Cibersegurança através da aná
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left">
   🦄 Linguagens principais: <p align="left"> <img src="https://skillicons.dev/icons?i=python,c" /> </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanotfound&layout=compact&theme=synthwave)
+
 </p>
 📖 Conhecimentos adicionais
 <p align="left"> <img src="https://skillicons.dev/icons?i=go,java,html,css,php" /> </p>
