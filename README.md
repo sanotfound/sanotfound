@@ -1,32 +1,46 @@
-## 👋Olá, eu sou o Saulo Estrela
-<p align="left"> 
-🎓 Sou estudante de Engenharia de Computação e estou construindo uma carreira em Cibersegurança. 
+## 👋 Hi, I'm Saulo Estrela
 
-Atualmente estou direcionando meus estudos para Cibersegurança através da análise de redes, Threat Intelligence e documentação técnica de incidentes. Meu interesse está em compreender como ataques acontecem, analisar evidências e documentar conclusões técnicas a partir de investigações.
+<p align="left">
+🎓 I'm a Computer Engineering student building a career in Cybersecurity.
 
+I'm currently focusing my studies on Cybersecurity through network analysis, Threat Intelligence, and technical incident documentation. My main interests are understanding how cyberattacks occur, analyzing digital evidence, and producing structured technical documentation based on security investigations.
 </p>
 
-## 🔍 Áreas de Interesse
+## 🔍 Areas of Interest
 
-- Cibersegurança
-- Segurança de Redes
+- Cybersecurity
+- Network Security
 - Threat Intelligence
 - Threat Hunting
-- Análise de Malware
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-<p align="left">
-  🦄 Linguagens principais: <p align="left"> <img src="https://skillicons.dev/icons?i=python,c" /> </p>
+- Malware Analysis
 
-</p>
-📖 Conhecimentos adicionais
-<p align="left"> <img src="https://skillicons.dev/icons?i=go,java,html,css,php" /> </p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
 
-💼 Ferramentas que uso:
 <p align="left">
- <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postgres" />
+  🦄 <strong>Primary Languages:</strong>
 </p>
 
-<h3 align="center">📫 Contatos: </h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c" />
+</p>
+
+<p align="left">
+  📖 <strong>Additional Knowledge:</strong>
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,java,html,css,php" />
+</p>
+
+<p align="left">
+  💼 <strong>Tools & Technologies:</strong>
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postgres" />
+</p>
+
+<h3 align="center">📫 Connect with me</h3>
 
 <p align="center">
   <a href="mailto:estrelasaulo08@gmail.com">
