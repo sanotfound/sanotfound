@@ -37,8 +37,10 @@ I'm currently focusing my studies on Cybersecurity through network analysis, Thr
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postgres" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postgres,kali" />
 </p>
+
+
 
 <h3 align="center">📫 Connect with me</h3>
 
