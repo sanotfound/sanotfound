@@ -1,9 +1,15 @@
 ## 👋 Hi, I'm Saulo Estrela
 
 <p align="left">
-🎓 I'm a Computer Engineering student building a career in Cybersecurity.
+  🎓 I'm a Computer Engineering undergraduate with a strong interest in Cybersecurity.
+</p>
 
-I'm currently focusing my studies on Cybersecurity through network analysis, Threat Intelligence, and technical incident documentation. My main interests are understanding how cyberattacks occur, analyzing digital evidence, and producing structured technical documentation based on security investigations.
+<p align="left">
+  My repositories reflect my academic journey across different areas of computing, alongside my independent exploration of Cybersecurity, particularly network analysis, Threat Intelligence, digital forensics, and incident documentation.
+</p>
+
+<p align="left">
+  Here, I share academic assignments, personal projects, and technical experiments as I continue developing my knowledge and practical skills.
 </p>
 
 ## 🔍 Areas of Interest
@@ -29,7 +35,7 @@ I'm currently focusing my studies on Cybersecurity through network analysis, Thr
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,java,html,css,php" />
+  <img src="https://skillicons.dev/icons?i=go,java,html,php" />
 </p>
 
 <p align="left">
